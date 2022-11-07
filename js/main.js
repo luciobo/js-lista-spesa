@@ -12,7 +12,3 @@ while (i < listaSpesa.length) {
 
 }
 
-const listaSpesaEl = document.getElementsByClassName (".lista-spesa")
-console.log(listaSpesaEl)
-
-listaSpesaEl.i
