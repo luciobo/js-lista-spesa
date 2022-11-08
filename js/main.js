@@ -15,7 +15,10 @@ while (i < listaSpesa.length) {
 
 };
 
-const listaSpesaEl = document.getElementById(lista);
+
+
+
+let listaSpesaEl = document.getElementById(lista);
 console.log(listaSpesaEl);
 
-listaSpesaEl.innerHTML = 
+listaSpesaEl.innerHTML = "lista"
